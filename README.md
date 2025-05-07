@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 **About Me**  
-A **Computer Science** student with a passion for **cloud security**, **offensive scripting**, and **smart contract vulnerabilities**. Building tools to break things (ethically) and then fortify them. Currently automating defenses with `Bash`, `Python`, and `AWS` while researching SQLi mitigation strategies.  
+A **Computer Science** student with a passion for **network security**, **cloud security**, **offensive scripting**, and **blockchain infrastructure**. Building tools to break things (ethically) and then fortify them. Automating defenses with `Bash`, and `Python`. Currently exploring `AWS`.  
 
 **🔭Undergraduate Thesis**: *"Symbolic Finite Automata-based Static Code Audit for SQL Injection Vulnerabilities in LAMP Stack Source Code Via Bash Scripting"* (Ongoing)  
 
