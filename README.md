@@ -22,7 +22,7 @@ A **Computer Science** student with a passion for **network security**, **cloud 
 `Python` `Bash` `PowerShell` `AWK/GAWK` `Multi-threading`  
 
 #### **Tools of the Trade**  
-`Wireshark` `Maltego` `CodeArtifact` `LAMP Stack` `TCPdump`  
+`Wireshark` `Burp Suite` `Maltego` `CodeArtifact` `LAMP Stack` `TCPdump`  
 
 #### **Languages**  
 `C/C++` `Java` `Python` `SQL`  
