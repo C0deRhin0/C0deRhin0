@@ -9,7 +9,7 @@
 ### 🚀 **About Me**  
 A **Computer Science** student with a passion for **cloud security**, **offensive scripting**, and **smart contract vulnerabilities**. Building tools to break things (ethically) and then fortify them. Currently automating defenses with `Bash`, `Python`, and `AWS` while researching SQLi mitigation strategies.  
 
-**🔭 Undergraduate Thesis **: *"Symbolic Finite Automata-based Static Code Audit for SQL Injection Vulnerabilities in LAMP Stack Source Code Via Bash Scripting"* (Ongoing)  
+**🔭Undergraduate Thesis**: *"Symbolic Finite Automata-based Static Code Audit for SQL Injection Vulnerabilities in LAMP Stack Source Code Via Bash Scripting"* (Ongoing)  
 
 ---
 
@@ -53,6 +53,10 @@ A **Computer Science** student with a passion for **cloud security**, **offensiv
 *Cryptographic hash-based certificate validation system.*  
 `Linux` `Apache` `MySQL` `PHP` 
 
+#### [🛠️ Trashtrackr](https://github.com/C0deRhin0/new-trashtrack)
+*App-based real-time tracking and notification system for trash collection schedules.*
+`Flutter` `Firebase` 
+
 ---
 
 ### 📜 **Certifications**  
@@ -65,7 +69,6 @@ A **Computer Science** student with a passion for **cloud security**, **offensiv
 ### 📚 **Education**  
 **🎓 B.S. Computer Science**  
 *Ateneo de Naga University | 2022–2026*  
-- **Magna Cum Laude Candidate**  
 - **DOST Scholar**  
 - **President’s Lister**  
 
