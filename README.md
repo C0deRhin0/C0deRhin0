@@ -1,6 +1,6 @@
 # Wilfredo Paulo Perez III ☁️🔒  
 #### *Security-Driven Developer & Cloud Enthusiast*  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](http://linkedin.com/in/wpperezili)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/wppereziii)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=flat&logo=github)](https://github.com/C0deRhin0)
 [![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?style=flat&logo=gmail)](mailto:pauloperez9754@gmail.com)
 
