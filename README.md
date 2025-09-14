@@ -9,7 +9,7 @@
 ### 🚀 **About Me**  
 A **Computer Science** student with a passion for **network security**, **cloud security**, **offensive scripting**, and **blockchain infrastructure**. Building tools to break things (ethically) and then fortify them. Automating defenses with `Bash`, and `Python`. Currently exploring `AWS`.  
 
-**🔭Undergraduate Thesis**: *"Symbolic Finite Automata-based Static Code Audit for SQL Injection Vulnerabilities in LAMP Stack Source Code Via Bash Scripting"* (Ongoing)  
+**🔭Undergraduate Thesis**: *"A Vendor-Agnostic, Resource-Aware, Explainable Software-Defined Intrusion Prevention System for SOHO Networks using PPO, Policy Distillation, and TreeSHAP-IQ"* (Ongoing)  
 
 ---
 
