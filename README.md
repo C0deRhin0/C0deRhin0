@@ -9,7 +9,7 @@
 
 ### 🚀 **About Me**
 
-**Computer Science** student (Magna Cum Laude) at Ateneo de Naga University, operating at the intersection of **cybersecurity** and **applied AI**. I harden infrastructure by day and build AI-powered tooling to automate what shouldn't be manual. My security work is hands-on — network audits, SIEM and SOAR deployments, compliance — and my AI projects are production-first: RAG pipelines, multi-agent orchestrators, and local-first secure LLM systems that stay on-prem.
+**Computer Science** graduate (Magna Cum Laude) at Ateneo de Naga University, operating at the intersection of **cybersecurity** and **applied AI**. I harden infrastructure by day and build AI-powered tooling to automate what shouldn't be manual. My security work is hands-on — network audits, SIEM and SOAR deployments, compliance — and my AI projects are production-first: RAG pipelines, multi-agent orchestrators, and local-first secure LLM systems that stay on-prem.
 
 I build things that hold up under pressure. Ethically offensive when needed. Defensively rigorous always.
 
