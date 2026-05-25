@@ -59,23 +59,23 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 
 #### 🤖 AI Systems
 
-#### [🧠 Vector-Mind-AI — Multi-Agent Research Orchestrator](https://github.com/C0deRhin0)
+#### [🧠 Vector-Mind-AI — Multi-Agent Research Orchestrator](https://github.com/C0deRhin0/vector-mind-ai)
 *6-agent wave-based research platform (Planner → Researcher → Analyst → Writer → Critic → Fact Checker) with cross-session knowledge graph visualization. Supports local (Ollama) and cloud (OpenAI, Anthropic, Google) LLM backends — open-source alternative to NotebookLM.*
 `Ollama` `Qdrant` `FastAPI` `React` `OpenAI` `Anthropic API`
 
-#### [🏢 Corp-Mind-AI — On-Premise HR Knowledge Assistant](https://github.com/C0deRhin0)
+#### [🏢 Corp-Mind-AI — On-Premise HR Knowledge Assistant](https://github.com/C0deRhin0/corp-mind-ai)
 *Fully on-premise RAG HR assistant using hybrid semantic + BM25 search (Qdrant RRF fusion), source-cited answers with page-level traceability. 2-hour TTL answer cache reduced redundant LLM inference by ~65%. Zero bytes of employee data leave the network.*
 `FastAPI` `Qdrant` `Ollama` `React` `sentence-transformers`
 
-#### [🎙️ NuecAI Whisper Local — Offline Meeting Transcriber](https://github.com/C0deRhin0)
+#### [🎙️ NuecAI Whisper Local — Offline Meeting Transcriber](https://github.com/C0deRhin0/whisper-local)
 *100% offline transcription using whisper.cpp with Metal GPU acceleration. Handles 60+ minute recordings via silence-based chunking; neural speaker diarization via pyannote.audio. Reduces post-meeting documentation time by ~75% with zero cloud exposure.*
 `whisper.cpp` `pyannote.audio` `Ollama` `React` `Python`
 
-#### [📧 AI-Centric Email Security Responder](https://github.com/C0deRhin0)
+#### [📧 AI-Centric Email Security Responder](https://github.com/C0deRhin0/ai-centric-email-security)
 *End-to-end email security response automation using Power Automate and n8n orchestration with LLM-generated context-aware replies. Reduced security response drafting time by ~76% across 3 monitored mailboxes.*
 `Power Automate` `n8n` `LLM API`
 
-#### [🏗️ CheatScale — AI Development Orchestrator](https://github.com/C0deRhin0)
+#### [🏗️ CheatScale — AI Development Orchestrator](https://github.com/C0deRhin0/opencode-cheatscale)
 *Enterprise-grade AI orchestration system with 24 specialized agents across a 3-tier architecture. Wave-based task routing, Obsidian graph-linked documentation (120+ nodes), and automated roadmap generation. Enforces 80%+ unit test coverage on AI-generated code.*
 `OpenCode` `Python` `Obsidian`
 
@@ -83,7 +83,7 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 
 #### 🔐 Security & Infrastructure
 
-#### [🔒 Home-Lab Software-Defined Firewall](https://github.com/C0deRhin0)
+#### 🔒 Home-Lab Software-Defined Firewall
 *4-VLAN segmented home-lab with 60+ custom firewall rules and real-time IDS via Suricata. Zero lateral movement during internal threat simulations; ~91% reduction in unfiltered east-west traffic.*
 `pfSense` `Suricata` `VLAN` `IDS/IPS`
 
@@ -95,11 +95,11 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 *11 MITRE ATT&CK-mapped attack simulations across 5 tactics — each paired with detection logic and mitigation guidance for red-blue team training.*
 `Python` `MITRE ATT&CK` `Red Team`
 
-#### [📋 Automated System Security Logging](https://github.com/C0deRhin0)
+#### [📋 Automated System Security Logging](https://github.com/C0deRhin0/Automated-System-Logging)
 *Cross-platform forensic logging scripts (Linux & Windows) aggregating 18 log source categories into structured reports in under 90 seconds. Wazuh & Splunk ingestible.*
 `Bash` `PowerShell` `Wazuh` `Splunk`
 
-#### [🎲 LED-Entropy: Hardware TRNG](https://github.com/C0deRhin0)
+#### [🎲 LED-Entropy: Hardware TRNG](https://github.com/C0deRhin0/LED-entropy)
 *Hardware entropy source combining analog noise, photoresistor sensing, and chaotic LED patterns — a miniaturized analogue of Cloudflare's LavaLamp. 2,400+ cryptographically-useful random bits/second with ~38% lower entropy bias than software PRNGs.*
 `Raspberry Pi` `Python` `Cryptography` `Electronics`
 
