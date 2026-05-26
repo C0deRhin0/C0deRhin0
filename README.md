@@ -83,7 +83,7 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 
 #### 🔐 Security & Infrastructure
 
-#### 🔒 Home-Lab Software-Defined Firewall
+#### 🔒 Home-Lab Software-Defined Firewall (**Home Project**)
 *4-VLAN segmented home-lab with 60+ custom firewall rules and real-time IDS via Suricata. Zero lateral movement during internal threat simulations; ~91% reduction in unfiltered east-west traffic.*
 `pfSense` `Suricata` `VLAN` `IDS/IPS`
 
