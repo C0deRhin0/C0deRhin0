@@ -37,9 +37,9 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 ### 🏆 **Highlights**
 
 - **3x Hack4Gov Competitor** — Regional (Hack4Gov 2 & 3) · National (Hack4Gov 3) — AdNU School Representative
-- **Magna Cum Laude** · QPI 3.63 · Consistent President's Lister
+- **Magna Cum Laude** · QPI 3.64 · Consistent President's Lister
 - **DOST Scholar**
-- **Compliance Officer for Privacy (COP)** — led NPC Seal of Registration submission
+- **AI x Security x Compliance**
 
 ---
 
@@ -47,6 +47,7 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-%2300A36C?style=flat&logo=isc2)
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-%234285F4?style=flat&logo=google)
+![TOPCIT Level III](https://img.shields.io/badge/TOPCIT-Level_III-%23007ACC?style=flat)
 ![AWS CCSP](https://img.shields.io/badge/AWS-CCSP-%23FF9900?style=flat&logo=amazonaws)
 ![CNSP](https://img.shields.io/badge/Network_Security-CNSP-%2300599C?style=flat)
 ![BTL0](https://img.shields.io/badge/Blue_Team-BTL0-%230078D4?style=flat)
