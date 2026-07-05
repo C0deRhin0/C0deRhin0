@@ -46,12 +46,13 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 ### 📜 **Certifications**
 
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-%2300A36C?style=flat&logo=isc2)
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-%234285F4?style=flat&logo=google)
 ![AWS CCSP](https://img.shields.io/badge/AWS-CCSP-%23FF9900?style=flat&logo=amazonaws)
 ![CNSP](https://img.shields.io/badge/Network_Security-CNSP-%2300599C?style=flat)
 ![BTL0](https://img.shields.io/badge/Blue_Team-BTL0-%230078D4?style=flat)
 ![FIT-SM](https://img.shields.io/badge/IT_Service_Mgmt-FIT--SM-%236A0DAD?style=flat)
 
-*In Progress: `CompTIA Security+` · `Google Cybersecurity Professional Certificate`*
+*In Progress: `CompTIA Security+` · `SecOps C-AgAIPen` · `HTB COAE` · `HTB CPTS`*
 
 ---
 
