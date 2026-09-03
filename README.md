@@ -149,7 +149,7 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 
 **🎓 B.S. Computer Science** — *Magna Cum Laude*
 *Ateneo de Naga University · 2022–2026 · Naga City, Camarines Sur*
-`DOST Scholar` · `President's Lister` · `QPI: 3.63`
+`DOST Scholar` · `President's Lister` · `QPI: 3.64`
 
 ---
 
