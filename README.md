@@ -89,15 +89,15 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 *4-VLAN segmented home-lab with 60+ custom firewall rules and real-time IDS via Suricata. Zero lateral movement during internal threat simulations; ~91% reduction in unfiltered east-west traffic.*
 `pfSense` `Suricata` `VLAN` `IDS/IPS`
 
-#### [☁️ AWS Cloud DevSecOps Pipeline](https://github.com/C0deRhin0/AWS_Cloud_DevSecOps)
+#### [☁️ AWS Cloud DevSecOps Pipeline](https://github.com/C0deRhin0/aws-cloud-devsecops)
 *Automated CI/CD across 7 AWS services via IaC. Cut deployment steps from 14 → 2 and build-to-deploy cycle time by ~72%. Least-privilege IAM across 4 roles with zero standing admin access.*
 `AWS` `CodePipeline` `CodeBuild` `CodeDeploy` `IAM` `GitHub Actions`
 
-#### [💣 Offensive Python Toolkit](https://github.com/C0deRhin0/Offensive_Python_Scripts)
+#### [💣 Offensive Python Toolkit](https://github.com/C0deRhin0/offensive-python-scripts)
 *11 MITRE ATT&CK-mapped attack simulations across 5 tactics — each paired with detection logic and mitigation guidance for red-blue team training.*
 `Python` `MITRE ATT&CK` `Red Team`
 
-#### [📋 Automated System Security Logging](https://github.com/C0deRhin0/Automated-System-Logging)
+#### [📋 Automated System Security Logging](https://github.com/C0deRhin0/automated-system-logging)
 *Cross-platform forensic logging scripts (Linux & Windows) aggregating 18 log source categories into structured reports in under 90 seconds. Wazuh & Splunk ingestible.*
 `Bash` `PowerShell` `Wazuh` `Splunk`
 
@@ -109,7 +109,7 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 
 #### 🔍 Other
 
-#### [🔍 AdNU CEVAS Certificate Validation](https://github.com/C0deRhin0/AdNU_CEVAS-LAMP-)
+#### [🔍 AdNU CEVAS Certificate Validation](https://github.com/C0deRhin0/adnu-cevas-lamp)
 *SHA-256 cryptographic hash-based certificate validation for 3 academic departments; cut verification time from ~3 days → under 10 seconds. Containerized for Docker/Kubernetes deployment.*
 `LAMP` `Docker` `Kubernetes` `PHP` `MySQL`
 
@@ -156,3 +156,24 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 ### 📫 **Let's Connect**
 
 Into **cybersecurity**, **AI systems**, or where they meet? Always open to collaborate or talk shop. ☕
+
+## Explore the work by engineering boundary
+
+The repositories connect three recurring interests: keeping data local, making agent behavior reviewable, and turning security checks into repeatable evidence. Follow the project links below for source and reproduction details.
+
+```mermaid
+flowchart LR
+D["Privacy and local data"]:::source --> R["RAG · OCR · transcription"]:::process
+    A["Agent coordination"]:::source --> G["Governed exchange<br/>and tool boundaries"]:::process
+    S["Security engineering"]:::source --> T["Synthetic tests<br/>and release checks"]:::process
+    R --> E["Inspectable project evidence"]:::result
+    G --> E
+    T --> E
+    classDef source fill:#e0f2fe,stroke:#0284c7,color:#0c4a6e
+    classDef process fill:#ede9fe,stroke:#7c3aed,color:#3b0764
+    classDef store fill:#dcfce7,stroke:#16a34a,color:#14532d
+    classDef review fill:#fef3c7,stroke:#d97706,color:#78350f
+    classDef result fill:#f1f5f9,stroke:#475569,color:#0f172a
+```
+
+Recent starting points: [AI Regression Gate](https://github.com/C0deRhin0/ai-regression-gate), [RhinoGuard](https://github.com/C0deRhin0/rhinoguard), [Recall](https://github.com/C0deRhin0/recall-reviewer), and the [web portfolio](https://github.com/C0deRhin0/Web-Portfolio). Each repository describes its own implementation and limits.
