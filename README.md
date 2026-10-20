@@ -90,7 +90,7 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 `pfSense` `Suricata` `VLAN` `IDS/IPS`
 
 #### [☁️ AWS Cloud DevSecOps Pipeline](https://github.com/C0deRhin0/aws-cloud-devsecops)
-*Automated CI/CD across 7 AWS services via IaC. Cut deployment steps from 14 → 2 and build-to-deploy cycle time by ~72%. Least-privilege IAM across 4 roles with zero standing admin access.*
+*Illustrated AWS exercises covering tag-based IAM permissions for EC2 and static website hosting on S3. The repository contains the walkthrough, not a reusable CI/CD or IaC implementation.*
 `AWS` `CodePipeline` `CodeBuild` `CodeDeploy` `IAM` `GitHub Actions`
 
 #### [💣 Offensive Python Toolkit](https://github.com/C0deRhin0/offensive-python-scripts)
@@ -102,7 +102,7 @@ I build things that hold up under pressure. Ethically offensive when needed. Def
 `Bash` `PowerShell` `Wazuh` `Splunk`
 
 #### [🎲 LED-Entropy: Hardware TRNG](https://github.com/C0deRhin0/LED-entropy)
-*Hardware entropy source combining analog noise, photoresistor sensing, and chaotic LED patterns — a miniaturized analogue of Cloudflare's LavaLamp. 2,400+ cryptographically-useful random bits/second with ~38% lower entropy bias than software PRNGs.*
+*Experimental physical seed source combining analog inputs, photoresistor sensing, camera frame differences, and SHA-256 conditioning. Entropy rate and cryptographic suitability require separate source validation.*
 `Raspberry Pi` `Python` `Cryptography` `Electronics`
 
 ---
